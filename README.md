@@ -12,4 +12,7 @@
 ### July 21, 2022
 - [Commsor - A full-stack platform for building communities](https://www.commsor.com/) - Discover the extraordinary impact of Community-Led Growth, with Commsor. Get the software, education, and community you need to transform your business. 
 
-- [Ready Player Me - Cross-game Avatar Platform for the Metaverse🏻](https://readyplayer.me/) - Ready Player Me help users create an avatar they can use across many virtual experiences and give develop-ers an easy-to-use tool for building avatar-based experiences.
+- [Ready Player Me - Cross-game Avatar Platform for the Metaverse🏻](https://readyplayer.me/) - Ready Player Me help users create an avatar they can use across many virtual experiences and give develop-ers an easy-to-use tool for building avatar-based experiences. 
+
+
+- [Lets Do DeFi - DeFi Guides Grandma Can Follow 👵🏻](https://letsdodefi.com/) - Lets Do DeFi ™ is a free DeFi educational resource and guide aimed to explain complicated crypto stuff to everyday folks. 
