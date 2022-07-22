@@ -16,4 +16,7 @@
 
 - [Lets Do DeFi - DeFi Guides Grandma Can Follow 👵🏻](https://letsdodefi.com/) - Lets Do DeFi ™ is a free DeFi educational resource and guide aimed to explain complicated crypto stuff to everyday folks. 
 
-- [Speedwrite- An automatic text generator](https://speedwrite.com/) - Writing fiction, opinion, or personal statements? Try the Wordblast text synthesizer.
+### July 22, 2022
+- [Speedwrite - An automatic text generator](https://speedwrite.com/) - Writing fiction, opinion, or personal statements? Try the Wordblast text synthesizer.
+
+- [Amplify.ai - The first AI-driven Comment Moderation solution for Facebook and Instagram.](https://speedwrite.com/) - Writing fiction, opinion, or personal statements? Try the Wordblast text synthesizer.
