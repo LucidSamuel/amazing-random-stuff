@@ -14,5 +14,6 @@
 
 - [Ready Player Me - Cross-game Avatar Platform for the Metaverse🏻](https://readyplayer.me/) - Ready Player Me help users create an avatar they can use across many virtual experiences and give develop-ers an easy-to-use tool for building avatar-based experiences. 
 
-
 - [Lets Do DeFi - DeFi Guides Grandma Can Follow 👵🏻](https://letsdodefi.com/) - Lets Do DeFi ™ is a free DeFi educational resource and guide aimed to explain complicated crypto stuff to everyday folks. 
+
+- [Speedwrite- An automatic text generator](https://speedwrite.com/) - Writing fiction, opinion, or personal statements? Try the Wordblast text synthesizer.
