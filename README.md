@@ -20,3 +20,6 @@
 - [Speedwrite - An automatic text generator](https://speedwrite.com/) - Writing fiction, opinion, or personal statements? Try the Wordblast text synthesizer.
 
 - [Amplify.ai - The first AI-driven Comment Moderation solution for Facebook and Instagram.](https://speedwrite.com/) - Writing fiction, opinion, or personal statements? Try the Wordblast text synthesizer.
+
+### July 25, 2022
+- [SyncUp - One place to grow your community](https://syncup.to/) - Everything you need to grow your community in one place.
