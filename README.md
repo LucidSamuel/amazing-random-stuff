@@ -23,3 +23,7 @@
 
 ### July 25, 2022
 - [SyncUp - One place to grow your community](https://syncup.to/) - Everything you need to grow your community in one place.
+
+### July 27, 2022
+- [LineageOS - A free and open-source OS, based on the Android mobile platform.](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform. This is a mirror of https://review.lineageos.org/
+
