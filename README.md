@@ -27,3 +27,8 @@
 ### July 27, 2022
 - [LineageOS - A free and open-source OS, based on the Android mobile platform.](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform. This is a mirror of https://review.lineageos.org/
 
+### July 28, 2022
+- [Awesome-Selfhosted - A list of Free Software network services and web applications which can be hosted on your own server.](https://github.com/awesome-selfhosted/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted on your own server(s). Non-Free software is listed on the Non-Free page.
+
+
+
