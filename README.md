@@ -30,5 +30,6 @@
 ### July 28, 2022
 - [Awesome-Selfhosted - A list of Free Software network services and web applications which can be hosted on your own server.](https://github.com/awesome-selfhosted/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted on your own server(s). Non-Free software is listed on the Non-Free page.
 
-
+### August 1, 2022
+- [LifeAtSpaces - Virtual study and work spaces from around the world.](https://lifeat.io/) - Life.io is the world's first web-based platform specifically designed to help people make better decisions every moment, to take care of themselves more, to engage more, to simply live more.
 
