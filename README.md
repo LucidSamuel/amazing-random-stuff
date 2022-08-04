@@ -33,3 +33,5 @@
 ### August 1, 2022
 - [LifeAtSpaces - Virtual study and work spaces from around the world.](https://lifeat.io/) - Life.io is the world's first web-based platform specifically designed to help people make better decisions every moment, to take care of themselves more, to engage more, to simply live more.
 
+### August 4, 2022
+- [PocketBase - Open Source backend for your next SaaS and Mobile app in 1 file.](https://pocketbase.io/) - PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in users management, convenient dashboard UI and simple REST-ish API.
