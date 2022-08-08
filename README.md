@@ -40,3 +40,5 @@
 - [Web Scraper - Making web data extraction easy and accessible for everyone.](https://webscraper.io/) - Web scrapper allows you make web data extraction as simple as possible. Configure scraper by simply pointing and clicking on elements. No coding required.
 
 - [Axiom - Browser Automation. Quickly, without code.](https://axiom.ai/) - Save time - use browser bots to automate website actions and repetitive tasks on any website or web app.
+
+- [Loggify - Release Communication Pipeline](https://www.loggify.app/) - No more lag between product progress and customer communication. Inform all stakeholders from a central point-of-truth.
