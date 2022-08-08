@@ -35,3 +35,6 @@
 
 ### August 4, 2022
 - [PocketBase - Open Source backend for your next SaaS and Mobile app in 1 file.](https://pocketbase.io/) - PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in users management, convenient dashboard UI and simple REST-ish API.
+
+### August 8, 2022
+- [Web Scraper - Making web data extraction easy and accessible for everyone.](https://webscraper.io/) - Web scrapper allows you make web data extraction as simple as possible. Configure scraper by simply pointing and clicking on elements. No coding required.
