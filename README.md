@@ -46,3 +46,5 @@
 
 ### August 12, 2022
 - [Deepsource - The Internet's static analysis infrastructure.](https://deepsource.io/) - DeepSource helps companies ship clean and secure code with powerful static analysis, OWASP Top 10 compliance, and Autofix.
+
+- [Kap - An open-source screen recorder built with web technology.](https://getkap.co/) - Kap is an open-source screen recorder with ease of use and speed with amazing functionality and extensibility.
