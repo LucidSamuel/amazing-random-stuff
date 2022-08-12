@@ -42,3 +42,7 @@
 - [Axiom - Browser Automation. Quickly, without code.](https://axiom.ai/) - Save time - use browser bots to automate website actions and repetitive tasks on any website or web app.
 
 - [Loggify - Release Communication Pipeline](https://www.loggify.app/) - No more lag between product progress and customer communication. Inform all stakeholders from a central point-of-truth.
+
+
+### August 12, 2022
+- [Deepsource - The Internet's static analysis infrastructure.](https://deepsource.io/) - DeepSource helps companies ship clean and secure code with powerful static analysis, OWASP Top 10 compliance, and Autofix.
