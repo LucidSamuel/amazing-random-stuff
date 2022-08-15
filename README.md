@@ -48,3 +48,7 @@
 - [Deepsource - The Internet's static analysis infrastructure.](https://deepsource.io/) - DeepSource helps companies ship clean and secure code with powerful static analysis, OWASP Top 10 compliance, and Autofix.
 
 - [Kap - An open-source screen recorder built with web technology.](https://getkap.co/) - Kap is an open-source screen recorder with ease of use and speed with amazing functionality and extensibility.
+
+
+### August 15, 2022
+- [Aeon - Scan the internet for your personal data to modify or remove it.](https://aeon.technology/) - With Aeon, you get an insight in what personal data is floating around on the internet. Retrieve, manage and adjust your personal information with the click of a button.
