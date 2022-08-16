@@ -52,3 +52,6 @@
 
 ### August 15, 2022
 - [Aeon - Scan the internet for your personal data to modify or remove it.](https://aeon.technology/) - With Aeon, you get an insight in what personal data is floating around on the internet. Retrieve, manage and adjust your personal information with the click of a button.
+
+### August 16, 2022
+- [wdOS - WebDesktop (wdOS) allows you create desktop apps with web languages and nothing else!](https://github.com/Webdeskme/wdOS/releases/) - wdOS is an easy way to make desktop apps with html, css, javascript, and Nodejs. No terminal needed. Have all the apps you create be organized in one easy to use location.
