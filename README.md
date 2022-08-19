@@ -55,3 +55,7 @@
 
 ### August 16, 2022
 - [wdOS - WebDesktop (wdOS) allows you create desktop apps with web languages and nothing else!](https://github.com/Webdeskme/wdOS/releases/) - wdOS is an easy way to make desktop apps with html, css, javascript, and Nodejs. No terminal needed. Have all the apps you create be organized in one easy to use location.
+
+### August 19, 2022
+- [CompressImage.io - Reduce image size up to 90% in seconds, free & works offline](https://compressimage.io/) - Reduce Image size by up to 90% by compressing them with latest tech. Compress JPG & PNG images to WebP. Works even when you are Offline.
+
