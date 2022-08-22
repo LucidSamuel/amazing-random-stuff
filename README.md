@@ -59,3 +59,5 @@
 ### August 19, 2022
 - [CompressImage.io - Reduce image size up to 90% in seconds, free & works offline](https://compressimage.io/) - Reduce Image size by up to 90% by compressing them with latest tech. Compress JPG & PNG images to WebP. Works even when you are Offline.
 
+### August 22, 2022
+- [12ft Ladder - Browse websites without paywalls, ads, trackers, and pop-ups.](https://12ft.io/) - Browse websites without paywalls, ads, trackers, and pop-ups.  All you have to do is add http://12ft.io to the URL of the page you’re trying to access.
