@@ -61,3 +61,6 @@
 
 ### August 22, 2022
 - [12ft Ladder - Browse websites without paywalls, ads, trackers, and pop-ups.](https://12ft.io/) - Browse websites without paywalls, ads, trackers, and pop-ups.  All you have to do is add http://12ft.io to the URL of the page you’re trying to access.
+
+### September 18, 2022
+- [Ask Edith - Never write SQL from scratch again.](https://www.askedith.ai/) - AskEdith is an AI English-To-SQL translator that can speed up the analytics process for beginners and experts alike. Ask your data questions directly, and share your results in graph or CSV format. Works with CSV, Google Sheets, Airtable, and SQL databases.
